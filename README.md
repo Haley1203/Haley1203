@@ -18,6 +18,7 @@ I'm a Portfolio Analyst based in Leeds, passionate about turning data into insig
 
 📁 What you'll find here:
 
+Shark Attack Time Series Analysis 
 
 📫 Let's connect! 
 
